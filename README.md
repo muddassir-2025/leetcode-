@@ -1,2 +1,5 @@
-# leetcode-
-leetcode -dsa
+# leetcode - DATA STRUCTURES AND ALGORITHMS 
+
+leetcode - DATA STRUCTURES AND ALGORITHMS 
+
+and DATABASE 
